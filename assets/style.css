@@ -1,21 +1,23 @@
-/* The product page — StateLess-Cube's public page, as a template.
+/* The product page — BuildingByTouching.
+ *
+ * Art direction: deep indigo night + warm amber lights (dark).
+ * Pastel dawn + crisp shadows (light).
  *
  * The same lessons as the games apply: no blur filters on big surfaces, no
  * animated shadows, motion on the compositor only (transform / opacity).
- * The generator writes the game's colours into the tokens at the top.
  */
 
 :root {
-  --accent: #ff3fa4;
-  --accent2: #7c5cff;
-  --accent3: #31d8ff;
+  --accent: #ffb020;
+  --accent2: #ff7a3d;
+  --accent3: #d4f2cd;
   --grad: linear-gradient(110deg, var(--accent), var(--accent2) 52%, var(--accent3));
   --radius: 28px;
   --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
   --max: 1160px;
   --pad: clamp(20px, 5vw, 40px);
-  --bg: #08060f;
-  --bg2: #150e2e;
+  --bg: #0a0a1a;
+  --bg2: #100e2a;
   --surface: rgba(255, 255, 255, 0.05);
   --surface-2: rgba(255, 255, 255, 0.1);
   --border: rgba(255, 255, 255, 0.11);
@@ -23,7 +25,7 @@
   --text-2: #ddd6f3;
   --muted: #a99ccd;
   --shadow: rgba(8, 4, 24, 0.6);
-  --phone: linear-gradient(160deg, #3b3160, #16122a 45%, #2a2347);
+  --phone: linear-gradient(160deg, #14102d, #0a0a1a 45%, #1a153a);
   --glow: 32%;
   --grain: 0.3;
   color-scheme: dark;
