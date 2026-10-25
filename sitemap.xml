@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://statelesssquad.github.io/sample-app-skeleton-public/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/og.png</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/merge.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/lumen.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/pairs.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/hopper.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/drift.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/catch.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/wordy.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/merge-dark.webp</image:loc></image:image>
+    <video:video><video:thumbnail_loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/shots/hero.webp</video:thumbnail_loc><video:title>StateLess Squad gameplay</video:title><video:description>One kit. Every kind of game.</video:description><video:content_loc>https://statelesssquad.github.io/sample-app-skeleton-public/assets/demo.mp4</video:content_loc></video:video>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/sample-app-skeleton-public/privacy/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/sample-app-skeleton-public/support/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/sample-app-skeleton-public/terms/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+</urlset>
