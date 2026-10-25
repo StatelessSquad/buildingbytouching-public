@@ -1,6 +1,6 @@
 # BuildingByTouching — product page
 
-3D house builder with a crane. One-finger drag to move the hook, release to drop. Seven themed plots, glowing pieces, quiet synth music. No ads, no accounts, offline.
+Drag the crane with one finger. Release to drop the pieces and build a glowing house, floor by floor, across seven themed plots. No ads, no accounts, plays offline.
 
 The public page of **BuildingByTouching** by [StateLess Squad](https://github.com/StatelessSquad).
 Live at https://statelesssquad.github.io/buildingbytouching-public/

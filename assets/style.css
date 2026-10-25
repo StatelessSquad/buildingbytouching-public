@@ -6,9 +6,9 @@
  */
 
 :root {
-  --accent: #ff3fa4;
-  --accent2: #7c5cff;
-  --accent3: #31d8ff;
+  --accent: #ffb020;
+  --accent2: #ff7a3d;
+  --accent3: #d4f2cd;
   --grad: linear-gradient(110deg, var(--accent), var(--accent2) 52%, var(--accent3));
   --radius: 28px;
   --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
